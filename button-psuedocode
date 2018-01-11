@@ -1,0 +1,36 @@
+
+
+// Option 1
+if red button pressed
+	turn on red light
+if red button pressed
+	turn off red light
+
+// Option 2
+if blue button pressed
+	turn on blue light
+if blue button pressed
+	turn off blue light
+
+// Option 3
+if yellow button pressed
+	turn on yellow light
+if yellow button pressed
+	turn off yellow light
+
+
+
+Mac OS and Windows platforms, HTML, HTML5, CSS, CSS3, XML, PHP, jQuery, REACT, Node, Javascript, Adobe CC ( Photoshop, Illustrator, InDesign & Adobe XD), Sublime Text, MS Office, SQL, IIS, Agile Workflow, GIT, SVN, Google Adwords, Google Analytics, SVN, SEOMoz, MSN Adcenter, Optimizely, Brightedge, WordPress, Joomla, Photography, Video editing, Joomla, WordPress
+
+
+JS Data Types = String, Numbers and Boleans
+
+var myString = "undefined";
+var myNumber = 8;
+var myBoolean = true;
+
+
+// Do not edit the code under this line
+console.log("Name: " + myString);
+console.log("Lucky Number: " + myNumber);
+console.log("Good joke? " + myBoolean);
